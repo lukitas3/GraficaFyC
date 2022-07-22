@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.25331f30.css",
+    "main.js": "/static/js/main.e4271193.js",
+    "static/js/787.68fca703.chunk.js": "/static/js/787.68fca703.chunk.js",
+    "static/media/img-portada.png": "/static/media/img-portada.58009e48baa82ddbb499.png",
+    "static/media/ejemplo1.jpeg": "/static/media/ejemplo1.d96801a14a65648946e7.jpeg",
+    "static/media/ejemplo3.jpeg": "/static/media/ejemplo3.02bd4b7d1b7f5c65679a.jpeg",
+    "static/media/nuestra-grafica.jpg": "/static/media/nuestra-grafica.4222cf438153ef8f818f.jpg",
+    "static/media/ejemplo2.jpeg": "/static/media/ejemplo2.4b19cbf1f587f42aa3ea.jpeg",
+    "static/media/impresora-2.jpg": "/static/media/impresora-2.94955c7eb5e413b9d237.jpg",
+    "static/media/Logo-footer.png": "/static/media/Logo-footer.bc4f0dba4beeefdebc63.png",
+    "static/media/imprenta-digital.jpg": "/static/media/imprenta-digital.54068e2c634592bccc90.jpg",
+    "static/media/impresora.jpg": "/static/media/impresora.a133e365f007acedf248.jpg",
+    "static/media/logo-ppal.png": "/static/media/logo-ppal.ddbcd8020fad2cd38fb9.png",
+    "static/media/wsp2.png": "/static/media/wsp2.06a99ac2b3d1aee76baf.png",
+    "static/media/grid.svg": "/static/media/grid.036c8c95899f78cbe39e637a5cd3f974.svg",
+    "static/media/tail-spin.svg": "/static/media/tail-spin.ef80647055d7dcd197be0c2aecf705c2.svg",
+    "index.html": "/index.html",
+    "main.25331f30.css.map": "/static/css/main.25331f30.css.map",
+    "main.e4271193.js.map": "/static/js/main.e4271193.js.map",
+    "787.68fca703.chunk.js.map": "/static/js/787.68fca703.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25331f30.css",
+    "static/js/main.e4271193.js"
+  ]
+}
